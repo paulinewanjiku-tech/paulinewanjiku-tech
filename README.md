@@ -64,7 +64,7 @@ A defensive security project covering network segmentation, access control, secu
 Laikipia University
 
 **Introduction to Cybersecurity**  
-Cisco Networking Academy — 88%
+Cisco Networking Academy 
 
 ---
 
